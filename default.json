@@ -19,6 +19,12 @@
             "matchPackagePrefixes": [
                 "@tailwindcss/"
             ]
+        },
+        {
+            "groupName": "Plaiceholder",
+            "matchSourceUrlPrefixes": [
+                "https://github.com/joe-bell/plaiceholder"
+            ]
         }
     ]
 }
