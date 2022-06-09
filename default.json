@@ -3,5 +3,13 @@
         "config:base",
         "schedule:weekly"
     ],
-    "timezone": "Europe/Amsterdam"
+    "timezone": "Europe/Amsterdam",
+    "packageRules": [
+        {
+            "groupName": "Mantine",
+            "matchPackagePrefixes": [
+                "@mantine/"
+            ]
+        }
+    ]
 }
