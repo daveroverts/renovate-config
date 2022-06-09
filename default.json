@@ -10,6 +10,15 @@
             "matchPackagePrefixes": [
                 "@mantine/"
             ]
+        },
+        {
+            "groupName": "Tailwind CSS",
+            "matchPackageNames": [
+                "tailwindcss"
+            ],
+            "matchPackagePrefixes": [
+                "@tailwindcss/"
+            ]
         }
     ]
 }
