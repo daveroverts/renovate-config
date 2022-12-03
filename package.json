@@ -1,6 +1,6 @@
 {
   "name": "@daveroverts/renovate-config",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "My shareable config for Renovate (renovatebot.com)",
   "scripts": {
     "test": "RENOVATE_CONFIG_FILE=default.json renovate-config-validator",
