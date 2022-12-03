@@ -1,13 +1,14 @@
 {
   "name": "@daveroverts/renovate-config",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "My shareable config for Renovate (renovatebot.com)",
   "scripts": {
-    "test": "RENOVATE_CONFIG_FILE=default.json renovate-config-validator"
+    "test": "RENOVATE_CONFIG_FILE=default.json renovate-config-validator",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daveroverts/renovate-config.git"
+    "url": "https://github.com/daveroverts/renovate-config.git"
   },
   "keywords": [
     "renovate"
@@ -19,6 +20,9 @@
   },
   "homepage": "https://github.com/daveroverts/renovate-config#readme",
   "devDependencies": {
-    "renovate": "^34.48.0"
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "renovate": "^34.48.0",
+    "semantic-release": "^19.0.5"
   }
 }
