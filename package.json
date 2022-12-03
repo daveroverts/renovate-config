@@ -1,0 +1,22 @@
+{
+  "name": "@daveroverts/renovate-config",
+  "version": "1.0.0",
+  "description": "My shareable config for Renovate (renovatebot.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "renovate-config-validator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveroverts/renovate-config.git"
+  },
+  "keywords": [
+    "renovate"
+  ],
+  "author": "Dave Roverts <me@daveroverts.nl> (https://www.daveroverts.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveroverts/renovate-config/issues"
+  },
+  "homepage": "https://github.com/daveroverts/renovate-config#readme"
+}
