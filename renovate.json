@@ -1,0 +1,21 @@
+{
+    "extends": [
+        "local>daveroverts/renovate-config"
+    ],
+    "npm": {
+        "schedule": [
+            "before 2am"
+        ]
+    },
+    "packageRules": [
+        {
+            "matchPackageNames": [
+                "renovate"
+            ],
+            "matchManagers": [
+                "npm"
+            ],
+            "stabilityDays": 0
+        }
+    ]
+}
