@@ -2,7 +2,6 @@
   "name": "@daveroverts/renovate-config",
   "version": "1.0.0",
   "description": "My shareable config for Renovate (renovatebot.com)",
-  "main": "index.js",
   "scripts": {
     "test": "renovate-config-validator"
   },
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/daveroverts/renovate-config/issues"
   },
-  "homepage": "https://github.com/daveroverts/renovate-config#readme"
+  "homepage": "https://github.com/daveroverts/renovate-config#readme",
+  "devDependencies": {
+    "renovate": "^34.48.0"
+  }
 }
