@@ -6,6 +6,9 @@
     "npm": {
         "extends": [
             "npm:unpublishSafe"
+        ],
+        "postUpdateOptions": [
+            "npmDedupe"
         ]
     },
     "timezone": "Europe/Amsterdam",
