@@ -3,6 +3,11 @@
         "config:base",
         "schedule:weekly"
     ],
+    "npm": {
+        "extends": [
+            "npm:unpublishSafe"
+        ]
+    },
     "timezone": "Europe/Amsterdam",
     "packageRules": [
         {
