@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/daveroverts/renovate-config/compare/v1.0.0...v1.1.0) (2022-12-05)
+
+
+### Features
+
+* add npm dedupe ([300dfb4](https://github.com/daveroverts/renovate-config/commit/300dfb4d184d96bf42e6c61e2aa955f2d654d8f9))
+* add npm:unpublishSafe ([1e1d5c4](https://github.com/daveroverts/renovate-config/commit/1e1d5c44064d4797ca555c88b756b855215d81b9))
+
 # 1.0.0 (2022-12-03)
 
 
