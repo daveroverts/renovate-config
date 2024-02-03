@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/daveroverts/renovate-config/compare/v1.1.0...v1.2.0) (2024-02-03)
+
+
+### Features
+
+* move to config:best-practices ([708a519](https://github.com/daveroverts/renovate-config/commit/708a51992841c4938bb7a2d6ece839a4f46fcfb2))
+
 # [1.1.0](https://github.com/daveroverts/renovate-config/compare/v1.0.0...v1.1.0) (2022-12-05)
 
 
