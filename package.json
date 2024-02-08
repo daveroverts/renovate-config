@@ -23,7 +23,7 @@
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "renovate": "37.174.7",
-    "semantic-release": "23.0.1"
+    "semantic-release": "23.0.2"
   },
   "release": {
     "branches": [
