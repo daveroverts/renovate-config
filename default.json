@@ -16,20 +16,20 @@
         {
             "groupName": "Mantine",
             "matchPackageNames": [
-                "@mantine/{/,}**"
+                "@mantine/**"
             ]
         },
         {
             "groupName": "Tailwind CSS",
             "matchPackageNames": [
                 "tailwindcss",
-                "@tailwindcss/{/,}**"
+                "@tailwindcss/**"
             ]
         },
         {
             "groupName": "Plaiceholder",
             "matchSourceUrls": [
-                "https://github.com/joe-bell/plaiceholder{/,}**"
+                "https://github.com/joe-bell/plaiceholder"
             ]
         }
     ]
