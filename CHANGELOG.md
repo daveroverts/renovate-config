@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/daveroverts/renovate-config/compare/v1.2.0...v1.2.1) (2024-07-30)
+
+
+### Bug Fixes
+
+* fix for matchers no longer working after config migration ([15cbc0a](https://github.com/daveroverts/renovate-config/commit/15cbc0a5c2aa7a7c4479a9f3abc59ffa30275b0a))
+
 # [1.2.0](https://github.com/daveroverts/renovate-config/compare/v1.1.0...v1.2.0) (2024-02-03)
 
 
