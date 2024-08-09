@@ -12,10 +12,19 @@
             "matchPackageNames": [
                 "renovate"
             ],
-            "matchManagers": [
-                "npm"
+            "matchUpdateTypes": [
+                "minor"
             ],
-            "minimumReleaseAge": null
+            "automerge": true
+        },
+        {
+            "matchPackageNames": [
+                "renovate"
+            ],
+            "matchUpdateTypes": [
+                "major"
+            ],
+            "automerge": false
         }
     ]
 }
