@@ -16,7 +16,8 @@
             "matchUpdateTypes": [
                 "minor"
             ],
-            "automerge": true
+            "automerge": true,
+            "automergeType": "branch"
         },
         {
             "matchPackageNames": [
