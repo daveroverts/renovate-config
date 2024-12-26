@@ -22,7 +22,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "renovate": "39.75.0",
+    "renovate": "39.82.9",
     "semantic-release": "24.2.0"
   },
   "release": {
